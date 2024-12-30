@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <title> Bratec Brazilian Technology Company </title>
+    <h1>Technology company that programs: assembly, html/xml, c++, c#, java, kotlin, python, java script, css and arduino! /h1>
+    <p>Guarulhense, Paulista and Brazilian company!</p>
+    <img src="C:\Users\danie\Downloads\GitHub.jpg" width="25" height="30" <h2>Access our github:</h2>
+    <li><a href="https://github.com/danielbratec/danielbratec">Click here to access/a></li>
+    <h3>Visit Us::</h3>
+    <h4>Rua Izabel Maria Elias 19 Guarulhos Sao Paulo Brasil</h4>
+
+
+    <h1>Created in Microsoft Visual Studio Code em HTML5 e Css3! </h1>
+
+    <h1>Company logo:</h1>
+    <img src= "C:\Users\danie\OneDrive\Imagens\Bratec.png" width= "250" heigth ="300"/>
+    <h2>Hardware created by us:</h2>
+    <img src="C:\Users\danie\OneDrive\Imagens\Hardware.jpg" width="250" height="300"/>
+    <h3>Circuits created by us:</h3>
+    <img src="C:\Users\danie\Downloads\cinematic-circuit-boards-box.jpg" width="250" height="300"/>
+    
+    <h1>Location on google maps</h1> <img src="C:\Users\danie\Downloads\Google-Maps.jpg" width="25" height="30"/>
+    <li><a href="https://www.google.com/maps/place/Bratec+Corporation%F0%9F%94%91/@-23.3824656,-46.4487051,99m/data=!3m1!1e3!4m6!3m5!1s0x94ce8b006b393937:0x77f25e0988918a34!8m2!3d-23.3823923!4d-46.4484255!16s%2Fg%2F11wxc6rwvy?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Clique aqui para acessar</a></li>
+
+    <h1>Our story download link</h1>
+    <ul></ul>
+    <img src="C:\Users\danie\Downloads\Explorer.jpg" width="25" height="30"><li><a href="downloads/Bratec PDF/">Download the pdf file</a></li>
+    <img src="C:\Users\danie\Downloads\WinRar.jpg" width="25" height="30"/> /><li><a href="downloads/Bratec PDF.zip">Download the zipped file</a></li>
+    <img src="C:\Users\danie\Downloads\Google-Drive.jpg" width="25" height="30"/> /><li><a href="https://drive.google.com/drive/folders/1m-_1t8XfB_I3pzTVhPLJuV73rT30jEBe">download file on</a></li>    
+
+</head>
+<body>
